@@ -1,7 +1,12 @@
 aid: dst-systems
-url: https://raw.githubusercontent.com/api-evangelist/dst-systems/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/dst-systems/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.dst-systems.com
+description: >-
+  DST Systems was a provider of specialized technology, strategic advisory, and business
+  operations outsourcing to the financial and healthcare industries before being acquired
+  by SS&C Technologies.
