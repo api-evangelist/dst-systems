@@ -1,7 +1,9 @@
 ---
 title: Software Maker SS&C to Buy DST Systems in $5.4 Billion ...
 url: https://www.wealthmanagement.com/financial-technology/software-maker-ss-c-to-buy-dst-systems-in-5-4-billion-deal
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"DST Systems" press release artificial intelligence'
 position: 3
 source: serpapi-google
